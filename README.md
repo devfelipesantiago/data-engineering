@@ -1,4 +1,4 @@
-# 🐍 Fundamentos de Python para Inteligência Artificial
+# 🐍 Fundamentos de Python para Data Engineering
 
 Este repositório documenta minha evolução, indo desde a base da linguagem Python até o desenvolvimento e deploy de soluções complexas envolvendo **Data Engineering**. O objetivo central aqui é a aplicação prática: transformar conceitos teóricos em projetos, análises e ferramentas funcionais.
 

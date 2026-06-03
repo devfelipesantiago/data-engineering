@@ -21,8 +21,8 @@ Abaixo está o roteiro de aprendizado aplicado nos scripts e diretórios deste r
 
 ## 📌 Projetos em Destaque
 
-* **[Mini Projeto de Faturamento - Análise de Dados de E-commerce](./Projetos/Mini_Projeto_Faturamento.py)**: Análise exploratória para otimização de estoque, marketing e expansão de mercado.
-* **[Mini Projeto - Análise e Limpeza de Dados de E-commerce](./Projetos/Mini_Projeto_E-Commerce.py)**: Análise exploratória de dados de e-commerce com foco em padrões de compra e comportamento do cliente.
-* **[Mini Projeto de Marketing](./Projetos/Mini_Projeto_Marketing.py)**: Análise exploratória de dados de marketing com foco em padrões de compra e comportamento do cliente.
+* **[Mini Projeto de Faturamento - Análise de Dados de E-commerce](https://github.com/devfelipesantiago/data-engineering/tree/main/Projetos/Faturamento)**: Análise exploratória para otimização de estoque, marketing e expansão de mercado.
+* **[Mini Projeto - Análise e Limpeza de Dados de E-commerce](https://github.com/devfelipesantiago/data-engineering/tree/main/Projetos/E_commerce)**: Análise exploratória de dados de e-commerce com foco em padrões de compra e comportamento do cliente.
+* **[Mini Projeto de Marketing](https://github.com/devfelipesantiago/data-engineering/tree/main/Projetos/Analise%20Numpy)**: Análise exploratória de dados de marketing com foco em padrões de compra e comportamento do cliente.
 
 ---
